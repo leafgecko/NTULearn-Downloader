@@ -1,0 +1,4 @@
+[submodule "ntulearn_downloader"]
+	path = ntulearn_downloader
+	url = https://github.com/leafgecko/ntulearn_downloader.git
+	branch = master
