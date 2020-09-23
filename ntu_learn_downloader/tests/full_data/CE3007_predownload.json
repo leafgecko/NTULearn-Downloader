@@ -1,0 +1,364 @@
+[
+    {
+        "type": "folder",
+        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING",
+        "children": [
+            {
+                "type": "folder",
+                "name": "Content",
+                "children": [
+                    {
+                        "type": "folder",
+                        "name": "Part 1 - Chng Eng Siong",
+                        "children": [
+                            {
+                                "type": "folder",
+                                "name": "Content (Lab, Tut and Lectures)",
+                                "children": [
+                                    {
+                                        "type": "file",
+                                        "name": "testIp_16bit.wav",
+                                        "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259834_1/xid-10259834_1"
+                                    },
+                                    {
+                                        "type": "file",
+                                        "name": "Part1_ForStudentsOnly.zip",
+                                        "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259835_1/xid-10259835_1"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "Lecture Notes for CE3007 (Part II) uploaded",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week8_SamplingReconstruction.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582031_1/xid-10582031_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week9_UpDownSampling.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582032_1/xid-10582032_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week10_ Filter Overview & FIR-Design.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582033_1/xid-10582033_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week11_FIR-Characteristics.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582034_1/xid-10582034_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week12_IIR-Overview.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582035_1/xid-10582035_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week13_Digital_Filter_Structures.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582036_1/xid-10582036_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Revision Summmary (at Week 13).pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582037_1/xid-10582037_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007 Part II: Tutorial Materials",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "Tut4_Answers.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582038_1/xid-10582038_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut4_Questions.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582039_1/xid-10582039_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut5_Answers.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582040_1/xid-10582040_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut5_Questions.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582041_1/xid-10582041_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut6_Answers.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582042_1/xid-10582042_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut6_Questions.docx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015987-dt-content-rid-10582043_1/xid-10582043_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007 Part II: Lab Manuals & Codes",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "CE3007LAB_manual_Lab4.doc",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2024265-dt-content-rid-10731832_1/xid-10731832_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Lab4_Matlab_Implement.m",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2024265-dt-content-rid-10731833_1/xid-10731833_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "CE3007LAB_manual_Lab5.doc",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2024265-dt-content-rid-10731834_1/xid-10731834_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Lab5_Matlab_Implementation.m",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2024265-dt-content-rid-10731835_1/xid-10731835_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007: Updated lecture notes are uploaded",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week8_SamplingReconstruction.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935457_1/xid-10935457_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week9_SamplingReconstruction (recap in Week 9).pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935458_1/xid-10935458_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week9_UpDownSampling.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935459_1/xid-10935459_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week10_ Filter Overview & FIR-Design.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935460_1/xid-10935460_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week10_FIR-Characteristics.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935461_1/xid-10935461_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week11_IIR-Overview.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935462_1/xid-10935462_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Revision Summmary Week 11.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2035055-dt-content-rid-10935463_1/xid-10935463_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007 Part II: Slides for Tutorial 4 Answers are Updated",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "Tut4_Questions & Answers_19-20S2.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2038549-dt-content-rid-10999360_1/xid-10999360_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007 Part II: Video for Tutorial 4 (Q1-4)",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "Tutorial-4-Q1-4.mp4",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2038555-dt-content-rid-10999365_1/xid-10999365_1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "folder",
+                        "name": "CE3007 Part II: Updated Slides for FIR/IIR/Tutorial5",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week10_ Filter Overview & FIR-Design_19-20S2.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2043872-dt-content-rid-11092661_1/xid-11092661_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "P2-Lecture Week11_IIR-Overview_19-20S2.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2043872-dt-content-rid-11092662_1/xid-11092662_1"
+                            },
+                            {
+                                "type": "file",
+                                "name": "Tut5_Questions & Answers_19-20S2.pptx",
+                                "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2043872-dt-content-rid-11092663_1/xid-11092663_1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "19S2 Recorded Lectures",
+                "children": [
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200114",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20011402300038e2365d89356c150331c49e6616fe&parent_id=_1790252_1&course_id=_306334_1&am_course_id=189569&ver=7&content_id=_1925227_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200116053000442c22bf932cdc355e0ed654343a949&parent_id=_1790252_1&course_id=_306334_1&am_course_id=189902&ver=7&content_id=_1932341_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200121",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20012102300049408014c67eb1b39b7b6919e5cdd34&parent_id=_1790252_1&course_id=_306334_1&am_course_id=190244&ver=7&content_id=_1955214_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200123",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200123053000cadcb71d56f6f4b94d2c9e3e29f467&parent_id=_1790252_1&course_id=_306334_1&am_course_id=190819&ver=7&content_id=_1959373_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200114",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20011402300038e2365d89356c150331c49e6616fe&parent_id=_1790252_1&course_id=_306334_1&am_course_id=189569&ver=7&content_id=_1976076_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200116053000442c22bf932cdc355e0ed654343a949&parent_id=_1790252_1&course_id=_306334_1&am_course_id=189902&ver=7&content_id=_1976393_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200121",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20012102300049408014c67eb1b39b7b6919e5cdd34&parent_id=_1790252_1&course_id=_306334_1&am_course_id=190244&ver=7&content_id=_1976673_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200123",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200123053000cadcb71d56f6f4b94d2c9e3e29f467&parent_id=_1790252_1&course_id=_306334_1&am_course_id=190819&ver=7&content_id=_1976959_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200128",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200128023000ddb64e30dbdf4323ea45a59a63437f7&parent_id=_1790252_1&course_id=_306334_1&am_course_id=191087&ver=7&content_id=_1978468_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200130",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200130053000ad722a104a7d217270b24541757b3d98&parent_id=_1790252_1&course_id=_306334_1&am_course_id=191439&ver=7&content_id=_1981678_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200204",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s2002040230009c444f9c134299f183d716ef93fedbfd&parent_id=_1790252_1&course_id=_306334_1&am_course_id=191776&ver=7&content_id=_1987214_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200206",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200206053000fdb2b657b2b4c5dd43f571d8f829668c&parent_id=_1790252_1&course_id=_306334_1&am_course_id=192159&ver=7&content_id=_1990561_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200211",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20021102300090cbd74cd526c965ee2fe19b331af092&parent_id=_1790252_1&course_id=_306334_1&am_course_id=192556&ver=7&content_id=_1994938_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200213",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200213053000cb77812363a488366f52ccd355fa&parent_id=_1790252_1&course_id=_306334_1&am_course_id=193146&ver=7&content_id=_2001111_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200213",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200213053000d1c2f66826f64c401aacfa0a7d49ce&parent_id=_1790252_1&course_id=_306334_1&am_course_id=193174&ver=7&content_id=_2001366_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200218",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200218023000db8646fac5bf06c9a5a9f3f4996535e&parent_id=_1790252_1&course_id=_306334_1&am_course_id=193584&ver=7&content_id=_2005835_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200220",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200220053000ab649717a237b6ddb6bb15ddd3f33&parent_id=_1790252_1&course_id=_306334_1&am_course_id=193971&ver=7&content_id=_2008613_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200225",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20022502300033a61c9ed0c085164f4791f76c816f&parent_id=_1790252_1&course_id=_306334_1&am_course_id=194346&ver=7&content_id=_2014018_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200227",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s20022705300062f25340f890b8504e7977374898746e&parent_id=_1790252_1&course_id=_306334_1&am_course_id=194677&ver=7&content_id=_2016663_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200303",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200303023000d4a5ffd2702789f51c96f91a1422951d&parent_id=_1790252_1&course_id=_306334_1&am_course_id=194921&ver=7&content_id=_2020266_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200305",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200305053000d0ffca8b4f336ac8c2525b8449ea61d0&parent_id=_1790252_1&course_id=_306334_1&am_course_id=195082&ver=7&content_id=_2023110_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200317",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s2003170230003a3fa9e56f1541862a870f1a3bb10b0&parent_id=_1790252_1&course_id=_306334_1&am_course_id=196133&ver=7&content_id=_2033159_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200319",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200319053000d0b49dd2315f87c322dd77bd0ba32d&parent_id=_1790252_1&course_id=_306334_1&am_course_id=196457&ver=7&content_id=_2035865_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200324",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200324023000c2d93bc2721d15cfbac3aa7f063c13d&parent_id=_1790252_1&course_id=_306334_1&am_course_id=196854&ver=7&content_id=_2040385_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200326",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200326053000dbad2431b5a195aa23e6634944279&parent_id=_1790252_1&course_id=_306334_1&am_course_id=197196&ver=7&content_id=_2042695_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING_20200331",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s200331023000cb74b7f6fe8b9b0454e7889a31cf1c&parent_id=_1790252_1&course_id=_306334_1&am_course_id=197588&ver=7&content_id=_2046867_1"
+                    },
+                    {
+                        "type": "recorded_lecture",
+                        "name": "19S2-CE3007-LEC_20200402",
+                        "predownload_link": "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s2004020530008c9cd3c93ac57c91c191e2f240cc67d1&parent_id=_1790252_1&course_id=_306334_1&am_course_id=197886&ver=7&content_id=_2048704_1"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "folder",
+        "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING",
+        "children": [
+            {
+                "type": "folder",
+                "name": "Content",
+                "children": [
+                    {
+                        "type": "folder",
+                        "name": "Part 1 - Chng Eng Siong",
+                        "children": [
+                            {
+                                "type": "folder",
+                                "name": "Content (Lab, Tut and Lectures)",
+                                "children": [
+                                    {
+                                        "type": "file",
+                                        "name": "testIp_16bit.wav",
+                                        "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259834_1/xid-10259834_1"
+                                    },
+                                    {
+                                        "type": "file",
+                                        "name": "Part1_ForStudentsOnly.zip",
+                                        "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259835_1/xid-10259835_1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

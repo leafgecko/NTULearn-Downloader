@@ -1,0 +1,118 @@
+[
+  {
+    "type": "folder",
+    "name": "19S2-CE3007-DIGITAL SIGNAL PROCESSING",
+    "mapping": {
+      "Content": 0,
+      "Lecture Notes for CE3007 (Part II) uploaded": 1
+    },
+    "children": [
+      {
+        "type": "folder",
+        "name": "Content",
+        "mapping": {
+          "Part 1 - Chng Eng Siong": 0
+        },
+        "children": [
+          {
+            "type": "folder",
+            "name": "Part 1 - Chng Eng Siong",
+            "mapping": {
+              "Content (Lab, Tut and Lectures)": 0
+            },
+            "children": [
+              {
+                "type": "folder",
+                "name": "Content (Lab, Tut and Lectures)",
+                "mapping": {
+                  "testIp_16bit.wav": 0,
+                  "Part1_ForStudentsOnly.zip": 1
+                },
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "testIp_16bit.wav",
+                    "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259834_1/xid-10259834_1",
+                    "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259834_1/courses/19S2-CE3007-LEC/testIp_16bit%281%29.wav",
+                    "filename": "testIp_16bit(1).wav"
+                  },
+                  {
+                    "type": "file",
+                    "name": "Part1_ForStudentsOnly.zip",
+                    "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259835_1/xid-10259835_1",
+                    "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1993635-dt-content-rid-10259835_1/courses/19S2-CE3007-LEC/Part1_ForStudentsOnly%281%29.zip",
+                    "filename": "Part1_ForStudentsOnly(1).zip"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "name": "Lecture Notes for CE3007 (Part II) uploaded",
+        "mapping": {
+          "P2-Lecture Week8_SamplingReconstruction.pptx": 0,
+          "P2-Lecture Week9_UpDownSampling.pptx": 1,
+          "P2-Lecture Week10_ Filter Overview & FIR-Design.pptx": 2,
+          "P2-Lecture Week11_FIR-Characteristics.pptx": 3,
+          "P2-Lecture Week12_IIR-Overview.pptx": 4,
+          "P2-Lecture Week13_Digital_Filter_Structures.pptx": 5,
+          "P2-Revision Summmary (at Week 13).pptx": 6
+        },
+        "children": [
+          {
+            "type": "file",
+            "name": "P2-Lecture Week8_SamplingReconstruction.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582031_1/xid-10582031_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582031_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week8_SamplingReconstruction.pptx",
+            "filename": "P2-Lecture Week8_SamplingReconstruction.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Lecture Week9_UpDownSampling.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582032_1/xid-10582032_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582032_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week9_UpDownSampling.pptx",
+            "filename": "P2-Lecture Week9_UpDownSampling.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Lecture Week10_ Filter Overview & FIR-Design.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582033_1/xid-10582033_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582033_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week10_%20Filter%20Overview%20%26%20FIR-Design.pptx",
+            "filename": "P2-Lecture Week10_ Filter Overview & FIR-Design.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Lecture Week11_FIR-Characteristics.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582034_1/xid-10582034_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582034_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week11_FIR-Characteristics.pptx",
+            "filename": "P2-Lecture Week11_FIR-Characteristics.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Lecture Week12_IIR-Overview.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582035_1/xid-10582035_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582035_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week12_IIR-Overview.pptx",
+            "filename": "P2-Lecture Week12_IIR-Overview.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Lecture Week13_Digital_Filter_Structures.pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582036_1/xid-10582036_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582036_1/courses/19S2-CE3007-LEC/P2-Lecture%20Week13_Digital_Filter_Structures.pptx",
+            "filename": "P2-Lecture Week13_Digital_Filter_Structures.pptx"
+          },
+          {
+            "type": "file",
+            "name": "P2-Revision Summmary (at Week 13).pptx",
+            "predownload_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582037_1/xid-10582037_1",
+            "download_link": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-2015986-dt-content-rid-10582037_1/courses/19S2-CE3007-LEC/P2-Revision%20Summmary%20%28at%20Week%2013%29.pptx",
+            "filename": "P2-Revision Summmary (at Week 13).pptx"
+          }
+        ]
+      }
+    ]
+  }
+]

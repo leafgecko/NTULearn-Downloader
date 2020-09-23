@@ -1,0 +1,12 @@
+{
+    "request": {
+        "method": "HEAD",
+        "request_path": "/bbcswebdav/pid-1875202-dt-content-rid-9478989_1/courses/19S2-CE2003-LEC/Tut1_CE2003_soln.pdf",
+        "query": {}
+    },
+    "response": {
+        "body": "",
+        "status_code": 200,
+        "url": "https://ntulearn.ntu.edu.sg/bbcswebdav/pid-1875202-dt-content-rid-9478989_1/courses/19S2-CE2003-LEC/Tut1_CE2003_soln.pdf"
+    }
+}

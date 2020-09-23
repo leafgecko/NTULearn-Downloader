@@ -1,0 +1,20 @@
+{
+    "request": {
+        "method": "HEAD",
+        "request_path": "/content/904d737e7d5f85318d127786285821d2/studio0578720023632e706a28abb9e8/media/1.mp4",
+        "query": {}
+    },
+    "response": {
+        "body": "",
+        "status_code": 200,
+        "headers": {
+            "Content-Length": "7634575",
+            "Content-Type": "video/mp4",
+            "Last-Modified": "Tue, 24 Mar 2020 07:12:44 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"03ee9dab1d61:0\"",
+            "Server": "Microsoft-IIS/8.5",
+            "Date": "Fri, 22 May 2020 07:21:49 GMT"
+        }
+    }
+}
