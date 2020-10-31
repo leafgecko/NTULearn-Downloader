@@ -58,7 +58,7 @@ class TestAPI(unittest.TestCase):
             self.assertSetEqual(expected, got)
 
     def test_get_recorded_lecture_download_link(self):
-        expected_url = "https://ntume18.ntu.edu.sg/content/0090842a4023a822af16c4160f6a4e95/s2001140130007cad14c2533d8829926b8e1847e39b41/media/1.mp4"
+        expected_url = "https://ntucee.ntu.edu.sg/content/0090842a4023a822af16c4160f6a4e95/s2001140130007cad14c2533d8829926b8e1847e39b41/media/1.mp4"
         predownload_link = "/webapps/Acu-AcuLe@rn-BB5dcb73f79ba4c/am/start_play_studio.jsp?sn=s2001140130007cad14c2533d8829926b8e1847e39b41&parent_id=_1790232_1&course_id=_306329_1&am_course_id=189561&ver=7&content_id=_1924894_1"
         with patch.dict("ntu_learn_downloader.api.__dict__", MOCK_CONSTANTS):
             url = get_recorded_lecture_download_link(BbRouter, predownload_link)
