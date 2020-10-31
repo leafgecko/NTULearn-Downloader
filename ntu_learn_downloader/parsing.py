@@ -11,7 +11,6 @@ def parse_recorded_lecture_contents(html: str) -> str:
     m3 = re.search(r'addStreamInfo\("\S+", "(\S+)", "", "", "", "as"\)', html)
 
     if m1 is None or m2 is None or m3 is None:
-        import pdb; pdb.set_trace()
         raise ValueError('Unable to get mp4 download link')
     gsUserId, gsModuleId = m1.groups()[0], m2.groups()[0]
     domain = m3.groups()[0]
