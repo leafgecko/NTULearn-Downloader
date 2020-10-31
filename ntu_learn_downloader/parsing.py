@@ -8,7 +8,7 @@ from ntu_learn_downloader.constants import GET_CONTENT_LIST_URL
 def parse_recorded_lecture_contents(html: str) -> str:
     m1 = re.search(r'var gsUserId\s+= "(\S+)";', html)
     m2 = re.search(r'var gsModuleId\s+= "(\S+)";', html)
-    m3 = re.search(r'addStreamInfo\("NTU-ME\d+", "(.*)", "", "", "", "as"\)', html)
+    m3 = re.search(r'addStreamInfo\("\S+", "(\S+)", "", "", "", "as"\)', html)
 
     if m1 is None or m2 is None or m3 is None:
         raise ValueError('Unable to get mp4 download link')
