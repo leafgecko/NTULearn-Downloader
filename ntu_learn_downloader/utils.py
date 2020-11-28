@@ -8,6 +8,8 @@ from pathlib import Path
 from typing import Optional, Tuple, Callable
 
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 
 def is_download_link(url):
@@ -170,8 +172,15 @@ def download(
     if os.path.isfile(destination):
         return False
 
+
+    session = requests.Session()
+    retry = Retry(connect=5, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+
     with open(destination, "wb") as f:
-        with requests.get(
+        with session.get(
             url, allow_redirects=True, stream=True, cookies=cookies, headers=headers
         ) as response:
             if callback:

@@ -31,6 +31,13 @@ optional arguments:
                         above set (set with --max_size)
 ```
 
+## Example
+
+Download all files from 20/21 semester 1, and prompt to download recorded lectures
+```
+python main.py --sem 20S1 -username student@student.main.ntu.edu.sg -password password1234 --prompt --download_to NTU --download_recorded_lectures
+```
+
 ## Packaging
 
 ```
