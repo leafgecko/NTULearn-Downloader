@@ -1,5 +1,8 @@
 # NTU Learn Downloader
 
+Command line interface to downloading files and lecture videos from [NTULearn](http://ntulearn.ntu.edu.sg). See
+[NTULearn-Downloader-GUI](https://github.com/leafgecko/NTULearn-Downloader-GUI) if you prefer a graphical user interface (GUI).
+
 ## Usage
 
 ```
