@@ -62,10 +62,13 @@ def parse_content_page(soup) -> List[Union[SDoc, SFolder, SLecture]]:
             link = hyperlink.get("href")
             result.append(SLecture(name.strip(), link))
         elif is_file(c, img):
-            hyperlink = c.find("a")
-            name = hyperlink.text
-            link = hyperlink.get("href")
-            result.append(SDoc(name.strip(), link))
+            try :
+                hyperlink = c.find("a")
+                name = hyperlink.text
+                link = hyperlink.get("href")
+                result.append(SDoc(name.strip(), link))
+            except:
+                pass
         else:
             pass
 
