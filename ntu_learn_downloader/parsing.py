@@ -62,13 +62,14 @@ def parse_content_page(soup) -> List[Union[SDoc, SFolder, SLecture]]:
             link = hyperlink.get("href")
             result.append(SLecture(name.strip(), link))
         elif is_file(c, img):
-            try :
-                hyperlink = c.find("a")
-                name = hyperlink.text
-                link = hyperlink.get("href")
-                result.append(SDoc(name.strip(), link))
-            except:
-                pass
+            hyperlink = c.find("a")
+            # sometimes file link is broken, in that case no href tag is rendered
+            # see: https://github.com/leafgecko/NTULearn-Downloader/issues/8
+            if hyperlink is None:
+                continue
+            name = hyperlink.text
+            link = hyperlink.get("href")
+            result.append(SDoc(name.strip(), link))
         else:
             pass
 
