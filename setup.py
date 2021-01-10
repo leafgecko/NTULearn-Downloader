@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ntu_learn_downloader",
-    version="0.2.1",
+    version="0.2.2",
     author="Raynold Ng",
     author_email="raynold.ng24@gmail.com",
     description="API wrapper to NTU Learn",
