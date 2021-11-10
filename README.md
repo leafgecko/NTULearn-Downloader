@@ -3,6 +3,10 @@
 Command line interface to downloading files and lecture videos from [NTULearn](http://ntulearn.ntu.edu.sg). See
 [NTULearn-Downloader-GUI](https://github.com/leafgecko/NTULearn-Downloader-GUI) if you prefer a graphical user interface (GUI).
 
+## Update
+COVID-19 resulted in most lectures being saved as zoom recordings with password protection + main developers graduating, this repo is currently not maintained.
+There has been talks with OSS on the adoption of this project for future uses.
+
 ## Usage
 
 ```
